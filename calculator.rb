@@ -1,2 +1,3 @@
 first_number = 12
-first_number = 11
+    second_number = 11
+    sum = (first_number+second_number)
